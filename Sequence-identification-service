@@ -1,0 +1,11 @@
+/sequence-identification-service
+├── data/
+│   └── example_sequence.fasta
+├── results/
+│   └── blast_results.txt
+│   └── sample_report.pdf
+├── scripts/
+│   └── run_blast_online.md  ← (or script to automate it later)
+├── README.md
+├── LICENSE
+└── .gitignore
